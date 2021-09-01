@@ -18,7 +18,7 @@ chmod 755 clickjacking-tester.sh
 ``` 
 ### warning
 ```
-do all the inastallation process with our root.it only works without root!!!!!
+it only works without root!!!!!
 ```
 ### Example
 
