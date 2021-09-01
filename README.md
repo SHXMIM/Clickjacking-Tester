@@ -16,6 +16,10 @@ chmod 755 clickjacking-tester.sh
 ```
 ./clickjacking-tester.sh
 ``` 
+### warning
+```
+it only works without root!!!!!
+```
 ### Example
 
 ```
