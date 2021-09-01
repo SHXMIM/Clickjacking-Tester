@@ -14,6 +14,12 @@ cd clickjacking-tester
 chmod 755 clickjacking-tester.sh
 ```
 ```
+cp ./clickjacking-tester.sh /home/user/downloads/
+```
+```
+cd downloads
+```
+```
 ./clickjacking-tester.sh
 ``` 
 ### warning
