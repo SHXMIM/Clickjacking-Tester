@@ -14,19 +14,13 @@ cd clickjacking-tester
 chmod 755 clickjacking-tester.sh
 ```
 ```
+cp ./clickjacking-tester.sh /home/user/downloads/
+```
+```
 exit
 ```
 ```
-mkdir tmp-clickjacking
-```
-```
-cp ./clickjacking-tester.sh /home/user/tmp-clickjacking/
-```
-```
-cd..
-```
-```
-cd tmp-clickjacking
+cd downloads
 ```
 ```
 ./clickjacking-tester.sh
