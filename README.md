@@ -22,4 +22,4 @@ chmod 755 clickjacking-tester.sh
 ./clickjacking-tester.sh
 ```
 ### screen short
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fclickjacking&psig=AOvVaw2hzQfMhB0OLXPIr3KjRcux&ust=1630559724154000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCVsMCD3fICFQAAAAAdAAAAABAD)
+![click jacking image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fclickjacking&psig=AOvVaw2hzQfMhB0OLXPIr3KjRcux&ust=1630559724154000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCVsMCD3fICFQAAAAAdAAAAABAD)
