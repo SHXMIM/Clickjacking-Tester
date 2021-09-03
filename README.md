@@ -2,7 +2,7 @@
 
 This is a tool which is used to find the clickjacking vulnerabilty of a web!!
 
-### Usage
+### installation
 
 ```
 git clone https://github.com/SHXMIM/clickjacking-tester.git
