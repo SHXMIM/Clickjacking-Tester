@@ -20,7 +20,7 @@ cp ./clickjacking-tester.sh /home/user/Downloads/
 exit
 ```
 ```
-cd downloads
+cd Downloads
 ```
 ```
 ./clickjacking-tester.sh
