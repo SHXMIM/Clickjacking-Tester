@@ -74,8 +74,9 @@ Once the script is executed, follow the prompts to test a URL for clickjacking v
 #### Step 3: If the website is vulnerable, it will display inside the iframe. If it is not vulnerable, the site will not show up inside the iframe.
 
 ## 🖼️ Screenshot
-Below is an infographic representing how clickjacking works:
-![click jacking image](https://portswigger.net/web-security/images/clickjacking-infographic.svg)
+
+![Screenshot from 2024-09-22 22-06-40](https://github.com/user-attachments/assets/0e653f07-6053-4ed4-b242-92d11989d46b)
+
 
 
 ## 🤝 Contributing
