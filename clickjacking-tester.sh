@@ -35,15 +35,17 @@ echo "<html>
 .center {
   text-align: center;
   color: red;
+  text-decoration: underline;
 }
 </style>
 <body>
-<h1 class="center">CLICKJACKING VULNERABILITY CHECKER</h1>
-<center>
-<iframe src="$url" width="1500" height="1500"></iframe>
-</center>
-<h2 class="center">HOW WE CAN KNOW THE WEBSITE IS VULNERABLE</h2>
+<h1 <u class="center">CLICKJACK VULNERABILITY CHECKER</u></h1>
+<h2 class="center">How can we know the website is vulnerable</h2>
 <p style="color:blue" align="center">if you can see the website in the above box the site is vulnerable!!.</p>
+
+<center>
+<iframe src="$url" width="1000" height="500"></iframe>
+</center>
 </body>
 </html>" >>tmp.html
 }
@@ -77,4 +79,5 @@ clickjacking_html
 browser_opt
 read -p "${yellow}CHOOSE ANY OPTION FROM ABOVE!${reset}" opt
 case_stat
+sleep 7
 rm tmp.html
